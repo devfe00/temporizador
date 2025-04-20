@@ -32,10 +32,3 @@ esse app foi criado como meu primeiro projeto em SwiftUI, com o objetivo de apre
 //código finalizado, agora é só esperar os bugs aparecerem
   //Fe – o dev mestre dos bugs
   
-  /*
-       ,--./,-.        </ >ˆ$
-      / #      /
-     |       |
-      \        \
-       `._,._,'
-  */
